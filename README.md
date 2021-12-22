@@ -18,7 +18,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [](https://github.com/ikinoti/3-column-preview-card.git)
-- Live Site URL: [Live View](https://your-live-site-url.com)
+- Live Site URL: [Live View](https://ikinoti.github.io/3-column-preview-card/)
 
 ## My process
 
